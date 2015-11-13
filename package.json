@@ -15,7 +15,8 @@
   "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "emitter-component": "~1.0.1"
+    "emitter-component": "~1.0.1",
+    "lodash.foreach": "^3.0.3"
   },
   "devDependencies": {
     "should": "~1.2.2",
